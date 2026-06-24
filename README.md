@@ -79,6 +79,12 @@ I prefer roles where I can contribute from day one with strong full‑stack skil
 
 ---
 
-If you'd like, I can:
-- Push this README to your `satyamsharma` repo, or  
-- Produce a shorter 2–3 line recruiter pitch and a 3‑bullet “talk track” you can paste into messages.
+## Recruiter pitch & talk track
+
+**Pitch (2–3 lines):**
+I’m Satyam Sharma — a MERN full‑stack developer (B.Sc. IT, 2026) who ships user‑focused web features and owns end‑to‑end delivery. I’m open to entry‑level roles and internships; I can demo my work and discuss how I’d contribute from day one.
+
+**Talk track (3 bullets):**
+- Built Hirex and DigiEats: led frontend + backend implementation, shipping complete features and integrations.  
+- Strong MERN skills: React UIs, Node/Express APIs, MongoDB data flow, and deployment basics.  
+- Ready to contribute immediately: fast ramp, clear communication, and product‑first decision making.
